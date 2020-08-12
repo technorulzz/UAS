@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tempat Wisata</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">Tempat-Tempat Wisata</string>
+    <string name="slide_1_desc">Ini adalah aplikasi tentang tempat wisata</string>
+
+    <string name="slide_2_title">Tujuan aplikasi ini</string>
+    <string name="slide_2_desc">untuk mengetahui letak wisata</string>
+
+    <string name="slide_3_title">Selamat Berwisata</string>
+    <string name="slide_3_desc">Selamat Berlibur</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Muhammad Syahrul Ramadan</string>
+    <string name="nav_header_subtitle">m.syahrulramadan@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_profil">Tempat Wisata</string>
+    <string name="menu_kontak">Kontak</string>
+
+</resources>
